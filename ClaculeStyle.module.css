@@ -1,0 +1,22 @@
+.input{
+    height: 100px;
+    width: 100px;
+    border: 1px solid rgba(132, 66, 66, 0.909);
+    font-size: large;
+    color: rgb(62, 36, 5);
+    background-color: rgb(231, 185, 185);
+}
+.div{
+height: 500px;
+width: 400px;
+
+}
+.inputTxt{
+height: 50px;
+width: 395px;
+font-size: large;
+border: 1px solid rgba(132, 66, 66, 0.909);
+}
+.inputTxt:focus{
+    outline: none;
+}
